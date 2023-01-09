@@ -15,6 +15,6 @@ dependencies {
     testImplementation 'cglib:cglib-nodep:3.3.0'
 }
 
-tasks.named('test') {
-    useJUnitPlatform()
-}
+//tasks.named('test') {
+//    useJUnitPlatform()
+//}
